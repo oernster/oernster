@@ -1,4 +1,4 @@
-- Hi, I’m Oliver (@oernster) — Lead/Principal polyglot engineer (BSc (Hons) Physics) with 28+ years’ IT experience; 13+ in Python (automation/tooling/backend).
+- Hi, I’m Oliver (@oernster) — Lead/Principal polyglot engineer (BSc (Hons) Physics). 28+ years in IT/software; 13+ years in Python (automation/tooling/backend).
 - I’m interested in anything Python and I love 3D printing.
 - I’m currently learning more about React and when I get round to it maybe some Golang/Rust.
 - I’m looking to collaborate on any of my public repos if you have something constructive to contribute.
