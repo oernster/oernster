@@ -2,7 +2,7 @@
 - I’m interested in anything Python and I love 3D printing.
 - I’m currently learning more about React and when I get round to it maybe some Golang/Rust.
 - I’m looking to collaborate on any of my public repos if you have something constructive to contribute.
-- How to reach me: You can contact me as .oliver5000 on discord.
+- Contact: Discord oliver5000 (or message me here on GitHub).
 
 <!---
 oernster/oernster is a special repository because its `README.md` (this file) appears on your GitHub profile.
