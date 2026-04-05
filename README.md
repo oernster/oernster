@@ -1,8 +1,16 @@
-- Hi, I’m Oliver (@oernster) — Lead/Principal polyglot engineer (BSc (Hons) Physics). 28+ years in IT/software; 13+ years in Python (automation/tooling/backend).
-- I’m interested in anything Python and I love 3D printing.
-- I’m currently learning more about React and when I get round to it maybe some Golang/Rust.
-- I’m looking to collaborate on any of my public repos if you have something constructive to contribute.
-- Contact: Discord oliver5000 (or message me here on GitHub).
+- Oliver Ernster (@oernster)
+  Principal-level engineer focused on decision systems, backend architecture and authority design
+
+- 28+ years building software across defence, fintech, telecoms and startups
+
+- 13+ years Python (backend, automation, distributed systems)
+- I design systems and organisations for:
+  - clear decision ownership
+  - low coordination latency
+  - long-term structural stability
+- Writing: https://www.crankthecode.com
+- GitHub projects reflect applied versions of that thinking
+- Open to Principal Engineer / CTO-track roles
 
 <!---
 oernster/oernster is a special repository because its `README.md` (this file) appears on your GitHub profile.
