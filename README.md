@@ -1,8 +1,6 @@
 - Oliver Ernster (@oernster)
   Principal-level engineer focused on decision systems, backend architecture and authority design
-
 - 28+ years building software across defence, fintech, telecoms and startups
-
 - 13+ years Python (backend, automation, distributed systems)
 - I design systems and organisations for:
   - clear decision ownership
