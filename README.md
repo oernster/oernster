@@ -6,7 +6,7 @@
   - clear decision ownership
   - low coordination latency
   - long-term structural stability
-- Writing: https://www.crankthecode.com
+- Writing: [CrankTheCode.com](https://www.crankthecode.com)
 - GitHub projects reflect applied versions of that thinking
 - Open to Principal Engineer / CTO-track roles
 
