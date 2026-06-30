@@ -7,7 +7,7 @@
   - low coordination latency
   - long-term structural stability
 - Writing: [CrankTheCode.com](https://www.crankthecode.com)
-- GitHub projects reflect applied versions of that thinking
+- GitHub projects [(Primary Portfolio)](https://oernster.github.io) reflect applied versions of that thinking
 - Open to Principal Engineer / CTO-track roles
 
 - Side note: shubh2294 Shubham Mishra is NOT a contributor to any of my repos.  This is a bug in github I cannot fix.
