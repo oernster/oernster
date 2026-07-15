@@ -16,6 +16,8 @@ My primary portfolio and entry point: the full catalogue of projects, grouped by
   - long-term structural stability
 - Writing: [CrankTheCode.com](https://www.crankthecode.com)
 - Open to Principal Engineer / CTO-track roles
+- Contributions to any of my repositories are under the terms in
+  [CONTRIBUTING.md](https://github.com/oernster/.github/blob/main/CONTRIBUTING.md)
 
 <sub>Side note: shubh2294 (Shubham Mishra) is NOT a contributor to any of my repositories. This is a GitHub caching bug I cannot fix.</sub>
 
