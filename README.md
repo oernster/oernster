@@ -2,7 +2,7 @@
 
 Principal-level engineer focused on decision systems, backend architecture and authority design.
 
-### &#10147; Explore my work: **[oernster.github.io](https://oernster.github.io)**
+### &#10147; Explore my work: **[ernster.dev](https://ernster.dev)**
 
 My primary portfolio and entry point: the full catalogue of projects, grouped by category (Decision Architecture, applications, libraries and tooling, protocol and standards, Elite Dangerous, 3D printing and more).
 
