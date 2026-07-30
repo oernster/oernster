@@ -15,7 +15,7 @@ My primary portfolio and entry point: the full catalogue of projects, grouped by
   - low coordination latency
   - long-term structural stability
 - Writing: [CrankTheCode.com](https://www.crankthecode.com)
-- Open to Principal Engineer / CTO-track roles
+- Open to Staff/Principal engineering, integration/solutions architecture or modernisation-lead.
 - Contributions to any of my repositories are under the terms in
   [CONTRIBUTING.md](https://github.com/oernster/.github/blob/main/CONTRIBUTING.md)
 
