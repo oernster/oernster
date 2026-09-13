@@ -1,10 +1,16 @@
 ## Oliver Ernster ([@oernster](https://github.com/oernster))
 
-Principal-level engineer focused on decision systems, backend architecture and authority design.
+Principal Python Engineer & Software Architect: APIs, integration and platform modernisation.
+Author of the four-book [Decision Architecture](https://www.amazon.co.uk/Decision-Architecture-Foundations-Patterns-Relativistic/dp/B0GTMVV8T5/) series.
 
 ### &#10147; Explore my work: **[ernster.dev](https://ernster.dev)**
 
 My primary portfolio and entry point: the full catalogue of projects, grouped by category (Decision Architecture, applications, libraries and tooling, protocol and standards, Elite Dangerous, 3D printing and more).
+
+> **Commercial licences available.** Every application here is free and open source. If those
+> terms do not suit what you are building, such as a closed-source product, a commercial licence
+> can be bought from me separately. It covers my own code; third-party libraries keep their own
+> licences. See [commercial licensing](https://ernster.dev/commercial-licensing.html).
 
 ---
 
@@ -15,11 +21,9 @@ My primary portfolio and entry point: the full catalogue of projects, grouped by
   - low coordination latency
   - long-term structural stability
 - Writing: [CrankTheCode.com](https://www.crankthecode.com)
-- Open to Staff/Principal engineering, integration/solutions architecture or modernisation-lead.
+- Open to Staff/Principal engineering, integration/solutions architecture or modernisation-lead roles
 - Contributions to any of my repositories are under the terms in
   [CONTRIBUTING.md](https://github.com/oernster/.github/blob/main/CONTRIBUTING.md)
-
-<sub>Side note: shubh2294 (Shubham Mishra) is NOT a contributor to any of my repositories. This is a GitHub sidebar caching bug I cannot fix.</sub>
 
 <!---
 oernster/oernster is a special repository because its README.md (this file) appears on your GitHub profile.
