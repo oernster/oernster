@@ -1,11 +1,13 @@
 ## Oliver Ernster ([@oernster](https://github.com/oernster))
 
-Principal Python Engineer & Software Architect: APIs, integration and platform modernisation.
+Principal Python Engineer & Software Architect: APIs, integration and platform modernisation.  
 Author of the four-book [Decision Architecture](https://www.amazon.co.uk/Decision-Architecture-Foundations-Patterns-Relativistic/dp/B0GTMVV8T5/) series.
 
-### &#10147; Explore my work: **[ernster.dev](https://ernster.dev)**
+### ➣ Explore my work: **[ernster.dev](https://ernster.dev)**
 
-My primary portfolio and entry point: the full catalogue of projects, grouped by category (Decision Architecture, applications, libraries and tooling, protocol and standards, Elite Dangerous, 3D printing and more).
+My primary portfolio and entry point: the full catalogue of projects, grouped by category
+(Decision Architecture, applications, libraries and tooling, protocol and standards,
+Elite Dangerous, 3D printing and more).
 
 > **Commercial licences available.** Every application here is free and open source. If those
 > terms do not suit what you are building, such as a closed-source product, a commercial licence
@@ -25,7 +27,20 @@ My primary portfolio and entry point: the full catalogue of projects, grouped by
 - Contributions to any of my repositories are under the terms in
   [CONTRIBUTING.md](https://github.com/oernster/.github/blob/main/CONTRIBUTING.md)
 
-<!---
-oernster/oernster is a special repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Somewhat deranged content
+
+Not everything needs a business case.
+
+- [SnarkAPI](https://snarkapi.com) — Because not every API response needs to
+  pretend it is delighted to hear from you.
+- [FuckWhatDay](https://ernster.dev/FuckWhatDay) — A rigorously engineered Gregorian
+  weekday calculator written in Brainfuck. The joke is the implementation language; the
+  engineering is not.
+- [WhatDay](https://ernster.dev/WhatDay) — Because you really do need a
+  dedicated application to tell you what fucking day it is.
+<!--
+oernster/oernster is a special repository because its README.md (this file)
+appears on your GitHub profile.
+-->
