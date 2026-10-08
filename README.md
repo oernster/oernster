@@ -36,7 +36,7 @@ Not everything needs a business case.
 - [SnarkAPI](https://snarkapi.com)
   - Because not every API response needs to pretend it is delighted to hear from you.
 - [WhatDay](https://ernster.dev/WhatDay)
-  - Because you really do need a dedicated application to tell you what fucking day it is.
+  - Because you really do need a dedicated application to tell you what day it is.
 - [FuckWhatDay](https://ernster.dev/FuckWhatDay)
   - A rigorously engineered Gregorian weekday calculator written in Brainfuck. The joke is the implementation language; the engineering is not.
 
